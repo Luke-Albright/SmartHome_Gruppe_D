@@ -14,6 +14,8 @@
 }
 .image {
 }
+.button {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -65,5 +67,7 @@
   color:#999999;
 }
 .form_disabled {
+}
+.connector {
 }
 textarea, select, input, button { outline: none; }
