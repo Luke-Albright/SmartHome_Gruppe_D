@@ -1,6 +1,9 @@
 # SmartHome_Gruppe_D
 
 <<<<<<< HEAD
+Teilnehmer: Pascal Oswald, Luke Albright, Soman Martig, Nicolas Schläpfer
+=======
+<<<<<<< HEAD
 Projektidee
 • „Smart Home“
 • Intelligente, digital getriebene Wohnumgebung
@@ -10,4 +13,9 @@ Projektidee
 Hardwareumgebungen
 =======
 https://mm.tt/1458568075?t=UeJGz8eN0D
->>>>>>> b2c52d4eeb781553dbd35b5937842b54d189fe22
+https://www.mindmeister.com/1458568075?t=UeJGz8eN0D
+
+
+TEST TEST
+>>>>>>> 2fbc46223ad5e895fdfb45ae8f2bb19fc670d6aa
+>>>>>>> f16db6e49f19a9eb67891906b706ff0a37638a75

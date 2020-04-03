@@ -12,10 +12,18 @@
 }
 .box_1 {
 }
+<<<<<<< HEAD
 .box_3 {
 }
 .image {
 }
+=======
+.image {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+>>>>>>> 90ee31c3111e620eef44dd55f6b25ba8afc6a0a7
 .heading_1 {
   font-family:'Arial Standard', 'Arial', sans-serif;
   font-weight:bold;
@@ -65,4 +73,9 @@
 }
 .form_disabled {
 }
+<<<<<<< HEAD
+=======
+.connector {
+}
+>>>>>>> 90ee31c3111e620eef44dd55f6b25ba8afc6a0a7
 textarea, select, input, button { outline: none; }
